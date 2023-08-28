@@ -12,9 +12,8 @@ In this tutorial you will learn to perform semantic segmentation through the use
 
 ### Notebooks
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_1_segmentation/1_1_segmentation.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/1_cv/notebooks/1_1_segmentation/1_1_segmentation.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_1_segmentation/1_1_segmentation_solved.ipynb)
 
 ---
 
@@ -24,9 +23,8 @@ In this tutorial you will learn about and implement a Vector Quantization layer 
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_2_vq/1_2_vq.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/1_cv/notebooks/1_2_vq/1_2_vq.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_2_vq/1_2_vq_solved.ipynb)
 
 ---
 
@@ -36,9 +34,8 @@ In this tutorial you will learn about and implement NeRF, or Neural Radiance Fie
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_3_nerf/1_3_nerf.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/1_cv/notebooks/1_3_nerf/1_3_nerf.ipynb)
 
-Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/1_cv/notebooks/1_3_nerf/1_3_nerf_solved.ipynb)
 
 ---
 
