@@ -12,7 +12,8 @@ In this tutorial you will learn how to implement Variational AutoEncoders. We wi
 
 ### Notebooks
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/2_generative/notebooks/2_1_vaes/2_1_vaes.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/2_generative/notebooks/2_1_vaes/2_1_vaes.ipynb)
+
 
 ---
 
@@ -22,7 +23,8 @@ In this tutorial you will learn how to implement Generative Adversarial Networks
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/2_generative/notebooks/2_2_gans/2_2_gans.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/2_generative/notebooks/2_2_gans/2_2_gans.ipynb)
+
 
 ---
 
@@ -32,7 +34,7 @@ In this tutorial you will implement, train and analyse the results of a conditio
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/2_generative/notebooks/2_3_style_transfer/2_3_style_transfer.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/2_generative/notebooks/2_3_style_transfer/2_3_style_transfer.ipynb)
 
 ---
 
