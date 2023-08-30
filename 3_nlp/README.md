@@ -21,6 +21,8 @@ Contents:
 
 Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_1_intro_nlp/3_1_intro_nlp.ipynb)
 
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_1_intro_nlp/3_1_intro_nlp_solved.ipynb)
+
 
 ---
 
@@ -40,6 +42,8 @@ Contents:
 
 Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_2_transformers_classification/3_2_transformers_classification.ipynb)
 
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_2_transformers_classification/3_2_transformers_classification_solved.ipynb)
+
 
 ---
 
@@ -57,6 +61,8 @@ Contents:
 ### Notebook
 
 Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_3_transformers_translation/3_3_transformers_translation.ipynb)
+
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_3_transformers_translation/3_3_transformers_translation_solved.ipynb)
 
 
 ---
