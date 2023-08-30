@@ -1,4 +1,4 @@
-# [[M2L2023](https://www.m2lschool.org/home)] Tutorial 3: Natural Language Processing
+ll# [[M2L2023](https://www.m2lschool.org/home)] Tutorial 3: Natural Language Processing
 
 **Authors:** **[Vasilis Gkolemis](https://givasile.github.io/)** and **[Matko Bosnjak](https://scholar.google.com/citations?user=JDaHecMAAAAJ&hl=en)**
 
@@ -56,7 +56,7 @@ Contents:
 
 ### Notebook
 
-Tutorial: TO BE ADDED.
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_3_transformers_translation/3_3_transformers_translation.ipynb)
 
 
 ---
