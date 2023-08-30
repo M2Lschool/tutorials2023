@@ -56,7 +56,7 @@ Contents:
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/3_nlp/notebooks/3_3_transformers_translation/3_3_transformers_translation.ipynb)
+Tutorial: TO BE ADDED.
 
 
 ---
