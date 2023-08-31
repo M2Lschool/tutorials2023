@@ -17,7 +17,7 @@ In this tutorial you will learn about the various components of Graph Neural Net
 
 ### Notebooks
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/4_gnn/notebooks/4_1_gcn/4_1_gcn.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/4_gnn/notebooks/4_1_gcn/4_1_gcn.ipynb)
 
 
 ---
@@ -28,7 +28,7 @@ In this tutorial you will implement Graph attention (GAT). Consequently, you wil
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/4_gnn/notebooks/4_2_gat/4_2_gat.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/4_gnn/notebooks/4_2_gat/4_2_gat.ipynb)
 
 
 ---
@@ -39,7 +39,7 @@ In this tutorial, you will learn how Graph Networks can be used to perform graph
 
 ### Notebook
 
-Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023-dev/blob/main/4_gnn/notebooks/4_3_gnn_advanced/4_3_gnn_advanced.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/4_gnn/notebooks/4_3_gnn_advanced/4_3_gnn_advanced.ipynb)
 
 
 ---
