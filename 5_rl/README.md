@@ -1,4 +1,4 @@
-# [[M2L2023](https://www.m2lschool.org/home)] Tutorial 4: Reinforcement Learning
+# [[M2L2023](https://www.m2lschool.org/home)] Tutorial 5: Reinforcement Learning
 
 **Authors:** **[Ksenia Konyushkova](TODO)** based on Deep Learning Indaba and DeepMind Educational Resources.
 
