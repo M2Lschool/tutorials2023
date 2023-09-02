@@ -8,6 +8,8 @@ In this tutorial, we will have a *single* running colab covering three practical
 
 Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/6_diffusion/notebooks/6_diffusion.ipynb)
 
+Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2023/blob/main/6_diffusion/notebooks/6_diffusion_solved.ipynb)
+
 ## Practical 1: Forward Diffusion Process - Introducing Noise Schedulers
 
 ### Outline
